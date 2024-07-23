@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Praveen-koujalagi
+- 👋 Hi, I’m @Praveen Koujalagi
 
 <!---
 Praveen-koujalagi/Praveen-koujalagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
