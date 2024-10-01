@@ -23,5 +23,5 @@
 - **Databases**: MongoDB, MySQL
 
 ## 📫 How to reach me
-- **LinkedIn**: [Praveen Koujalagi](#)
+- **LinkedIn**: [www.linkedin.com/in/praveen-koujalagi](#)
 - **Email**: praveenkoujalagi99@gmail.com
