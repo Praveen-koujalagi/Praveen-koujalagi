@@ -19,9 +19,9 @@
 - **Data Science**: Python, R, SQL
 - **Web Development**: HTML, CSS, JavaScript
 - **Backend**: PHP
-- **Tools**: Jupyter, Git, Tabuleue
+- **Tools**: Jupyter, Git
 - **Databases**: MongoDB, MySQL
 
 ## 📫 How to reach me
-- **LinkedIn**: [www.linkedin.com/in/praveen-koujalagi](#)
+- **LinkedIn**: [Praveen Koujalagi](www.linkedin.com/in/praveen-koujalagi)
 - **Email**: praveenkoujalagi99@gmail.com
