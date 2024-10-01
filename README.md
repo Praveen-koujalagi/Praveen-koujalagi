@@ -12,7 +12,7 @@
 
 ## 🌱 I'm currently learning
 - Machine Learning
-- Data Science
+- Data Analysis
 - Programming Languages
 
 ## 💻 Tech Stack
