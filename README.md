@@ -24,4 +24,4 @@
 
 ## 📫 How to reach me
 - **LinkedIn**: [Praveen Koujalagi](https://www.linkedin.com/in/praveen-koujalagi/)
-- **Email**: praveenkoujalagi99@gmail.com
+- **Email**: [praveenkoujalagi99@gmail.com](praveenkoujalagi99@gmail.com)
