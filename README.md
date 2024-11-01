@@ -22,7 +22,7 @@
 - **Databases**: MongoDB, MySQL
 
 <details>	
- <summary><b>Badges 🪶</b></summary><br>
+ <summary><b>Badges </b></summary><br>
  
  ![Postman - Postman API Fundamentals Student Expert - 2024-11-01](https://github.com/user-attachments/assets/5fc172fe-2a93-421a-ba3a-25049a05e46f)
 </details>
