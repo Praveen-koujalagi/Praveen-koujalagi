@@ -16,8 +16,7 @@
 
 ## 💻 Tech Stack
 - **Data Science**: Python, R, SQL
-- **Web Development**: HTML, CSS, JavaScript
-- **Backend**: PHP
+- **Web Development**: MERN Stack
 - **Tools**: Jupyter, Git
 - **Databases**: MongoDB, MySQL
 ## Badges
