@@ -2,7 +2,7 @@
 
 ### 🔍 About Me
 
-🎓 Computer Science student specializing in Data science, passionate about leveraging data to build smarter solutions.  
+🎓 Computer Science student specializing in Data Science, passionate about leveraging data to build smarter solutions.  
 💡 Love transforming real-world problems into intelligent AI-driven applications.  
 🚀 Currently focused on **Machine Learning**, **Data Science**, and **Web Dev Projects**.
 
@@ -14,6 +14,7 @@
 - Data Science  
 - MERN Stack for full-stack development  
 - DSA for coding interviews
+
 ---
 
 ## 💻 Tech Stack
@@ -53,12 +54,11 @@
 </details>
 
 <details>
-<summary><b>🔥 LeetCode Insights</b></summary><br>
+<summary><b>🧩 LeetCode Practice Stats</b></summary><br>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Praveen-koujalagi?theme=dark&font=Source%20Code%20Pro&ext=heatmap" />
 </p>
 </details>
-
 
 ---
 
