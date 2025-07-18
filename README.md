@@ -2,7 +2,7 @@
 
 ### 🔍 About Me
 
-🎓 Computer Science student passionate about leveraging data to build smarter solutions.  
+🎓 Computer Science student specializing in Data science, passionate about leveraging data to build smarter solutions.  
 💡 Love transforming real-world problems into intelligent AI-driven applications.  
 🚀 Currently focused on **Machine Learning**, **Data Science**, and **Web Dev Projects**.
 
