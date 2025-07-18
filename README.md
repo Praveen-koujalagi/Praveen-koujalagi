@@ -6,32 +6,35 @@
 ---
 
 ## 🚀 Current Focus
-- Machine Learning algorithms
-- Data visualization techniques
-- Data structures and algorithms
-- Data Science
+- Machine Learning algorithms  
+- Data structures and algorithms  
+- Data Science  
 
 ---
 
 ## 🌱 I'm Currently Learning
-- Machine Learning
-- Data Science
-- Data Analysis
-- Programming Languages
+- Machine Learning  
+- Data Science  
+- Programming Languages  
 
 ---
 
 ## 💻 Tech Stack
 
-<code><img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></code>
-<code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></code>
-<code><img height="25" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/></code>
-<code><img height="25" src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/></code>
-<code><img height="25" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></code>
-<code><img height="25" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></code>
-<code><img height="25" src="https://img.shields.io/badge/MERN-Stack?style=for-the-badge&logo=react&logoColor=white"/></code>
-<code><img height="25" src="https://img.shields.io/badge/Jupyter_Notebook-orange?style=for-the-badge"/></code>
-<code><img height="25" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></code>
+### 🧑‍💻 Languages & Frameworks  
+<code><img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></code>  
+<code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></code>  
+<code><img height="25" src="https://img.shields.io/badge/MERN-Stack?style=for-the-badge&logo=react&logoColor=white"/></code>  
+
+### ⚒️ Tools & Databases  
+<code><img height="25" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/></code>  
+<code><img height="25" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></code>  
+<code><img height="25" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></code>  
+<code><img height="25" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></code>  
+
+### 📊 Concepts & Interests  
+<code><img height="25" src="https://img.shields.io/badge/Data%20Science-black?style=for-the-badge"/></code>  
+<code><img height="25" src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/></code>  
 
 ---
 
