@@ -38,6 +38,7 @@
 <code><img height="25" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></code>
 <code><img height="25" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></code>
 <code><img height="25" src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/></code>
 <code><img height="25" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></code>
 
 **Databases & Tools**  
