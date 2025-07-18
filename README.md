@@ -1,48 +1,78 @@
-# Hello, I'm Praveen 👋
+<h1 align="center">Hello, I'm Praveen 👋</h1>
 
-## About Me
-👋 Hi there! I'm a computer science student specializing in data science and passionate about machine learning and AI technologies. I enjoy exploring the latest advancements in these fields and applying them to real-world problems. Let's build the future together!
+## 🧠 About Me
+👋 I'm a computer science student specializing in **Data Science**, passionate about **Machine Learning** and **AI technologies**. I enjoy exploring cutting-edge tech and applying it to real-world problems.
 
-## 🔭 Current Focus
+---
+
+## 🚀 Current Focus
 - Machine Learning algorithms
 - Data visualization techniques
 - Data structures and algorithms
 - Data Science
 
-## 🌱 I'm currently learning
+---
+
+## 🌱 I'm Currently Learning
 - Machine Learning
+- Data Science
 - Data Analysis
 - Programming Languages
 
-## 💻 Tech Stack
-- **Data Science**: Python, R, SQL
-- **Web Development**: MERN Stack
-- **Tools**: Jupyter, Git
-- **Databases**: MongoDB, MySQL
+---
 
-## 📊 Leetcode
+## 💻 Tech Stack
+
+<code><img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/></code>
+<code><img height="25" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/MERN-Stack?style=for-the-badge&logo=react&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Jupyter_Notebook-orange?style=for-the-badge"/></code>
+<code><img height="25" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></code>
+
+---
+
+## 📈 GitHub & LeetCode Stats
+
 <details>
-  <summary> LeetCode stats </summary>
-  <br>
-  <a href="https://leetcode.com/u/Praveen-koujalagi/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Praveen-koujalagi?theme=dark&ext=heatmap,contest" alt="LeetCode Stats" />
-  </a>
+  <summary><b>📊 GitHub Stats</b></summary><br>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Praveen-koujalagi&show_icons=true&theme=tokyonight&hide_border=false"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-koujalagi&layout=compact&theme=tokyonight&hide_border=false"/>
+  </div>
 </details>
 
-## 🏅 Badges
-<details>	
- <summary><b>GSSOC(24) Badges </b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
- </a>
+<details>
+  <summary><b>🔥 LeetCode Stats</b></summary><br>
+  <div align="center">
+    <img src="https://leetcard.jacoblin.cool/Praveen-koujalagi?theme=dark&font=Source%20Code%20Pro&ext=heatmap" />
+  </div>
+</details>
+
+---
+
+## 🏅 GSSOC(24) Badges
+<details>
+<summary><b>Show GSSOC Badges</b></summary><br>
+<div align="center" style='display:flex; gap: 10px; flex-wrap: wrap;'>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" />
 </div>
 </details>
 
-## 📫 How to reach me
-- **LinkedIn**: [Praveen Koujalagi](https://www.linkedin.com/in/praveen-koujalagi/)
-- **Email**: [praveenkoujalagi99@gmail.com](mailto:praveenkoujalagi99@gmail.com)
+---
+
+## 📫 How to Reach Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/praveen-koujalagi/)
+- 📧 [praveenkoujalagi99@gmail.com](mailto:praveenkoujalagi99@gmail.com)
+
+---
+
+<p align="center"><i>“Learning never exhausts the mind.” – Leonardo da Vinci</i></p>
