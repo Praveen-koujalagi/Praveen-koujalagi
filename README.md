@@ -1,22 +1,19 @@
 <h1 align="center">Hello, I'm Praveen 👋</h1>
 
-## 🧠 About Me
-👋 I'm a computer science student specializing in **Data Science**, passionate about **Machine Learning** and **AI technologies**. I enjoy exploring cutting-edge tech and applying it to real-world problems.
+### 🔍 About Me
+
+🎓 Computer Science student passionate about leveraging data to build smarter solutions.  
+💡 Love transforming real-world problems into intelligent AI-driven applications.  
+🚀 Currently focused on **Machine Learning**, **Data Science**, and **Web Dev Projects**.
 
 ---
 
-## 🚀 Current Focus
-- Machine Learning algorithms  
-- Data structures and algorithms  
+### 🌱 Currently Exploring
+
+- ML Algorithms & Model Building  
 - Data Science  
-
----
-
-## 🌱 I'm Currently Learning
-- Machine Learning  
-- Data Science  
-- Programming Languages  
-
+- MERN Stack for full-stack development  
+- DSA for coding interviews
 ---
 
 ## 💻 Tech Stack
@@ -45,43 +42,48 @@
 
 ---
 
-## 📈 GitHub & LeetCode Stats
+### 📈 GitHub & LeetCode Stats
 
 <details>
-  <summary><b>📊 GitHub Stats</b></summary><br>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Praveen-koujalagi&show_icons=true&theme=tokyonight&hide_border=false"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-koujalagi&layout=compact&theme=tokyonight&hide_border=false"/>
-  </div>
+<summary><b>📊 GitHub Activity</b></summary><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveen-koujalagi&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-koujalagi&layout=compact&theme=tokyonight" height="150"/>
+</p>
 </details>
 
 <details>
-  <summary><b>🔥 LeetCode Stats</b></summary><br>
-  <div align="center">
-    <img src="https://leetcard.jacoblin.cool/Praveen-koujalagi?theme=dark&font=Source%20Code%20Pro&ext=heatmap" />
-  </div>
+<summary><b>🔥 LeetCode Insights</b></summary><br>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Praveen-koujalagi?theme=dark&font=Source%20Code%20Pro&ext=heatmap" />
+</p>
+</details>
+
+
+---
+
+### 🏆 GSSoC 2024 Badges
+
+<details>
+<summary><b>Click to Show</b></summary><br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90px" />
+</p>
 </details>
 
 ---
 
-## 🏅 GSSOC(24) Badges
-<details>
-<summary><b>Show GSSOC Badges</b></summary><br>
-<div align="center" style='display:flex; gap: 10px; flex-wrap: wrap;'>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" />
-</div>
-</details>
+### 📬 Let’s Connect!
 
----
-
-## 📫 How to Reach Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/praveen-koujalagi/)
-- 📧 [praveenkoujalagi99@gmail.com](mailto:praveenkoujalagi99@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/praveen-koujalagi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:praveenkoujalagi99@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
