@@ -20,8 +20,13 @@
 - **Tools**: Jupyter, Git
 - **Databases**: MongoDB, MySQL
 
-## 📊 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Praveen-koujalagi?theme=dark&ext=heatmap)](https://leetcode.com/u/Praveen-koujalagi/)
+<details>
+  <summary>📊 Click to view my LeetCode stats</summary>
+  <br>
+  <a href="https://leetcode.com/u/Praveen-koujalagi/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Praveen-koujalagi?theme=dark&ext=heatmap,contest" alt="LeetCode Stats" />
+  </a>
+</details>
 
 ## 🏅 Badges
 <details>	
