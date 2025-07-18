@@ -19,7 +19,11 @@
 - **Web Development**: MERN Stack
 - **Tools**: Jupyter, Git
 - **Databases**: MongoDB, MySQL
-## Badges
+
+## 📊 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Praveen-koujalagi?theme=dark&ext=heatmap)](https://leetcode.com/u/Praveen-koujalagi/)
+
+## 🏅 Badges
 <details>	
  <summary><b>GSSOC(24) Badges </b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
