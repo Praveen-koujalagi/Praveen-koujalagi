@@ -58,7 +58,7 @@
 <details>
 <summary><b>🧩 LeetCode Practice Stats</b></summary><br>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Praveen-koujalagi?theme=dark&font=Source%20Code%20Pro&ext=heatmap" width="300px"/>
+  <img src="https://leetcard.jacoblin.cool/Praveen-koujalagi?theme=dark&font=Source%20Code%20Pro&ext=heatmap" width="400px"/>
 </p>
 </details>
 
