@@ -9,8 +9,7 @@
 ### 🌱 Currently Exploring
 
 - ML Algorithms & Model Building  
-- Data Science  
-- MERN Stack for full-stack development  
+- Data Science    
 - DSA for coding interviews
 
 ## 💻 Tech Stack
