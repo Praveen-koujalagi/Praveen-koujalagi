@@ -27,6 +27,8 @@
 <code><img height="25" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/></code>
 <code><img height="25" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></code>
 <code><img height="25" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></code>
+<code><img height="25" src="https://img.shields.io/badge/NLP-blueviolet?style=for-the-badge"/></code>
+<code><img height="25" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></code>
 
 **Web Development**  
 <code><img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></code>
