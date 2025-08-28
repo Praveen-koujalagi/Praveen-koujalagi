@@ -10,7 +10,8 @@
 
 - ML Algorithms & Model Building  
 - Data Science    
-- DSA 
+- DSA
+- Blockchain
 
 ## 💻 Tech Stack
 
