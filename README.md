@@ -10,7 +10,7 @@
 
 - ML Algorithms & Model Building  
 - Data Science    
-- DSA for coding interviews
+- DSA 
 
 ## 💻 Tech Stack
 
